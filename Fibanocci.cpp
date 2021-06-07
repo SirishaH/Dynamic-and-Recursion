@@ -38,7 +38,7 @@ int main()
 }*/
 
 
-//FIBANOCCI OF OPTIMISATION
+//FIBANOCCI OPTIMISATION METHOD
 
 #include<bits/stdc++.h>
 using namespace std;
